@@ -18,12 +18,31 @@
 
 <a href="#"><img align="right" height="250" width="375" alt="" src="./source/back-new.gif"/></a>
 
+<div align="center">
+  <h2>
+    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
+      These are my contact info
+    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
+  </h2>
+
+  <div align="center"> 
+    <a href="mailto:innerpeace41025@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
+    &nbsp;&nbsp;
+    <a href="https://join.skype.com/invite/q2X6xNwHKyNA" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="40" /></a>
+    &nbsp;&nbsp;
+    <a href="https://t.me/leonsoft20" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
+    &nbsp;&nbsp;
+    <a href="https://discord.gg/PHhWDUyq" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="40" /></a>
+  </div>
+</div>
+
 ## 🛠️ My Favorite Programming Languages
 
 > Front-End | Back-End Development
 - HTML5/CSS3
 - JavaScript
 - TypeScript
+- Firefly
 - NodeJS
 - Python
 - PHP
@@ -73,29 +92,4 @@
             <td><img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="linux-github-profile-awesome-beautiful" width="100"/></td>
         </tr>
     </table>
-</p>
-<br>
-<p align="left">
-    <a href="https://github.com/goldpal?tab=repositories&sort=stargazers">
-        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/goldpal"/>
-    </a>
-    <a href="https://github.com/goldpal?tab=followers">
-        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/goldpal?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-    </a>
-</p>
-
-## My GitHub Stats 📊
-
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=goldpal&title_color=FFFF00&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000&show_icons=true&hide_border=true" alt="readme-stats-niclas" height="180px" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goldpal&theme=highcontrast&layout=compact&hide_border=true" alt="used-langs-niclas" height="180px"/>
-</p>
-<p align="left">
-    <img src="https://github-profile-trophy.vercel.app/?username=goldpal&no-bg=true&column=7&theme=tokyonight&margin-w=15" alt="trophy-niclas" height="180px"/>
-</p>
-
-![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=goldpal&theme=react-dark)
-
-<p align="center">
-    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=goldpal&theme=highcontrast&hide_border=true"/>
 </p>
