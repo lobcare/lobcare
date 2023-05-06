@@ -1,4 +1,4 @@
-<h1 align="left">
+<h1 align="center">
     🌟 <em> The die is cast! </em> 🌟
 </h1>
 
