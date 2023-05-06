@@ -16,4 +16,4 @@
 ## Contact me :
 
 [![Gmail Badge](https://img.shields.io/badge/-makpushkin1224@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:makpushkin1224@gmail.com)](makpushkin1224@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-hotcare-blue?style=flat-roundedrectangle&logo=telegram&logoColor=white&link=https://t.me/hotcare)](https://t.me/hotcare)
+[![Telegram Badge](https://img.shields.io/badge/-JS_hotcare-blue?style=flat-roundedrectangle&logo=telegram&logoColor=white&link=https://t.me/JS_hotcare)](https://t.me/JS_hotcare)
