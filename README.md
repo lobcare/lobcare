@@ -1,6 +1,5 @@
 <h1 align="left">
-    <em>Hello </em> <img src="source/die.jfif" height="37px" width="30px">, <em> The die </em>
-    <em> 🚀 is cast! </em>
+    🌟 <em> The die is cast! </em> 🌟
 </h1>
 
 - 😆 I love coding as the mouse love the rice.
