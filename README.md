@@ -9,6 +9,7 @@
 </p>
 
 - 😆 I love coding as the mouse love the rice.
+- 🤔 Currently, I am learning AI and Machine learning.
 - 🤝 Looking forward to more partnership with talents and investors.
 - 🛠️ 2023 Goals: To contribute more to build WEB 3 infra over the internet.
 - 🌟 Fun Fact: I like fishing and running.
