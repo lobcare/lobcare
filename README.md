@@ -13,8 +13,3 @@
 - 🤝 Looking forward to more partnership with talents and investors.
 - 🛠️ 2023 Goals: To contribute more to build WEB 3 infra over the internet.
 - 🌟 Fun Fact: I like fishing and running.
-
-## Contact me :
-
-[![Gmail Badge](https://img.shields.io/badge/-makpushkin1224@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:makpushkin1224@gmail.com)](makpushkin1224@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-jsm_lobcare-blue?style=flat-roundedrectangle&logo=telegram&logoColor=white&link=https://t.me/jsm_lobcare)](https://t.me/jsm_lobcare)
